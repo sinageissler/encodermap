@@ -50,6 +50,6 @@ cd encodermap/tutorials
 
 Start jupyter-notebook:
 ```bash
-jupyter-notbook
+jupyter-notebook
 ```
 This should start a jupyter-notebook server and you should be able to open the tutorial notebooks in your browser.
